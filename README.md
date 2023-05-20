@@ -13,3 +13,4 @@ Esse é um projeto de portfólio pessoa feito para apresentar minhas principais 
 - GitHub
 
 ## 🏷️ Layout
+Você pode acessar o layout do projeto [neste link](https://vanilson11.github.io/portfolio-vsousa/)
