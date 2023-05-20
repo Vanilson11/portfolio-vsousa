@@ -12,6 +12,7 @@ Esse é um projeto de portfólio pessoa feito para apresentar minhas principais 
 
 - HTML
 - CSS
+- JavaScript
 - Git
 - GitHub
 
