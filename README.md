@@ -1,11 +1,12 @@
-<p align="center">Portfólio Vanilson Sousa</p>
-
-<img src=".github/preview.JPG" alt="Preview do projeto" width="90%">
-
-> Staus: em desenvolvimento
+<p align="center">
+    Portfólio Vanilson Sousa
+    <img src=".github/preview.JPG" alt="Preview do projeto" width="90%">
+</p>
 
 ## 💻 Projeto 
 Esse é um projeto de portfólio pessoa feito para apresentar minhas principais informações, experiências e serviços.
+
+> Status: em desenvolvimento
 
 ## 🚀 Tecnologias
 
